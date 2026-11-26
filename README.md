@@ -2,7 +2,6 @@
 # Image Puzzle Solver
 
 Rearranges a picture cut into shuffled, equal-sized tiles by matching their edge colours.
-The code was generated with AI assistance (Claude).
 
 ## How to run
 ```bash
